@@ -1,0 +1,24 @@
+{
+  "id": "covalon-deities",
+  "title": "Covalon Deities Compendium",
+  "description": "A Compendium of the Covalon Deities",
+  "authors": [
+    {
+      "name": "Tabitha"
+    }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "name": "covalon-deities",
+      "label": "Covalon Deities",
+      "path": "./packs/covalon-deities.db",
+      "system": "pf2e",
+      "type": "Item"
+    }
+  ]
+}
