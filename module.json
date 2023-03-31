@@ -16,7 +16,7 @@
     {
       "name": "covalon-deities",
       "label": "Covalon Deities",
-      "path": "./packs/covalon-deities.db",
+      "path": "packs/covalon-deities.db",
       "system": "pf2e",
       "type": "Item"
     }
