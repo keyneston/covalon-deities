@@ -22,5 +22,7 @@
     }
   ],
   "manifest": "https://github.com/keyneston/covalon-deities/releases/latest/download/module.json",
-  "download": "generated-at-build"
+  "download": "generated-at-build",
+  "bugs": "https://github.com/keyneston/covalon-deities/issues",
+  "readme": "README.md"
 }
