@@ -7,7 +7,7 @@
       "name": "Tabitha"
     }
   ],
-  "version": "1.0.0",
+  "version": "generated-at-build",
   "compatibility": {
     "minimum": "9",
     "verified": "10"
@@ -21,5 +21,6 @@
       "type": "Item"
     }
   ],
-  "manifest": "https://github.com/keyneston/covalon-deities/releases/latest/download/module.json"
+  "manifest": "https://github.com/keyneston/covalon-deities/releases/latest/download/module.json",
+  "download": "generated-at-build"
 }
