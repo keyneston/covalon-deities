@@ -20,5 +20,6 @@
       "system": "pf2e",
       "type": "Item"
     }
-  ]
+  ],
+  "manifest": "https://github.com/keyneston/covalon-deities/releases/download/latest/module.json"
 }
