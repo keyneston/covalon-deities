@@ -1,0 +1,84 @@
+{
+  "name": "Manaat al-Karim",
+  "type": "deity",
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>The Great and Noble Manaat al-Karim [NG] <a id=\"toc-manaat-al-karim\"></a><a id=\"toc-manaat-al-karim-193\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Long ago the Great and Noble Janni Manaat al-Karim established a grand city in the great southern deserts. For several centuries this long lost city was a hub for trade, magic, and intellectual discourse. The city became home to many genie and their kin.</p>\n<p>Her brother jealous of her success poisoned her drink causing her to fall into a deep sickness. For a year and a day her people prayed for her recovery. At the end their prayers were answered and she ascended.</p>\n<p>Angered that his plan had failed her nameless brother cursed the city causing it to fall into ruin. Manaat was unable to prevent the destruction of her life's work but was able to protect many of its citizens as they fled. Sadly the curse lives on preventing her followers from ever reestablishing their holy city.</p>\n<p>Since these ancient times Manaat has continued to protect and guide her people as they have shifted from cosmopolitan citizens into semi-nomadic tribes making ends meet in small villages and trade caravans throughout the deserts they call home.<br /><strong>Edicts</strong> To care for and promote the diaspora, to make honorable trades<br /><strong>Anathema</strong> To make vows, to use poison, speak her brother's name, to serve an evil genie<br /><strong>Follower Alignments</strong> LG, NG, CG, N</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> performance</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> wish knife or wish blade</p>\n<p class=\"hang\"><strong>Domains</strong> aire, fire, dust</p>\n<p class=\"hang\"><strong>Alternate Domains</strong> sun, freedom</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 2nd: <em>invisibility</em>, 4th: <em>fly</em>, 7th: <em>fiery body</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "manaat",
+    "schema": {
+      "version": 0.835,
+      "lastMigration": {
+        "datetime": "2023-03-31T23:57:47.310+02:00",
+        "version": {
+          "schema": 0.833,
+          "foundry": "10.291",
+          "system": "4.10.1"
+        }
+      }
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "NG",
+      "follower": [
+        "N",
+        "NG",
+        "LG",
+        "CG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "air",
+        "fire",
+        "dust"
+      ],
+      "alternate": [
+        "sun",
+        "freedom"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [
+      "wis"
+    ],
+    "skill": "prf",
+    "weapons": [
+      "wish-blade",
+      "wish-knife"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.XXqE1eY3w3z6xJCB",
+      "4": "Compendium.pf2e.spells-srd.A2JfEKe6BZcTG1S8",
+      "7": "Compendium.pf2e.spells-srd.XS7Wyh5YC0NWeWyB"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.aqdywopsAqrKYF2y"
+    },
+    "exportSource": {
+      "world": "covalon",
+      "system": "pf2e",
+      "coreVersion": "10.291",
+      "systemVersion": "4.10.3"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.10.3",
+    "coreVersion": "10.291",
+    "createdTime": 1679842517987,
+    "modifiedTime": 1680463991023,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  }
+}
