@@ -18,3 +18,8 @@ clean:
 .PHONY: version
 version:
 	@echo ${RELEASE_VERSION}
+
+.PHONY: id
+id:
+	uuidgen | base64 | cut -c 1-16
+
