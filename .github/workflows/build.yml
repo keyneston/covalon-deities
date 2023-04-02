@@ -37,7 +37,6 @@ jobs:
       - name: Run a multi-line script
         run: |
           make build RELEASE_VERSION=${RELEASE_VERSION}
-          zip -r covalon-deities.zip -j dist dist/
       
       - uses: ncipollo/release-action@v1
         with:
