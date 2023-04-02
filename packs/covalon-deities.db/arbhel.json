@@ -1,0 +1,68 @@
+{
+  "name": "Arbhel",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Though Arbhel has always existed, she has only been active once destruction struck Elleatherra. The large influx of death showed shortcomings in the existing deities system. Not every dead could join the afterlife with their god, some met only Void in death. Arbhel is ruler of the Void brought some back to life to spread her influence through promises of the void cleansing the world and bringing it back to a pre-cataclysm state. Her true motivations remain unknown, but beware, for nothing good ever comes from the void.</p>\n<p><br /><strong>Edicts</strong> sow doubt amongst other gods' believers by spreading rumors or diminishing the power of their religions, guide souls to the void, attempt to discover the Catacylsm's cause<br /><strong>Anathema</strong> partake in other religions' customs, have children<br /><strong>Followers Alignments</strong> LE, N, NE, CE</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "arbhel",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CE",
+      "follower": [
+        "N"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "death",
+        "void"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm"
+    ],
+    "ability": [],
+    "skill": "occ",
+    "weapons": [
+      "fist"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.EDwakYQTS1t6XHD4",
+      "3": "Compendium.pf2e.spells-srd.06pzGkKTyPE3tHR8",
+      "6": "Compendium.pf2e.spells-srd.OdqM06M0wDUqZWiR"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.sjmvhED4aaBE5ltj"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680030078706,
+    "modifiedTime": 1680032223235,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "OzLO29Wqjh6AZOEI"
+}

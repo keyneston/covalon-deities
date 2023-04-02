@@ -1,0 +1,72 @@
+{
+  "name": "Yud",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Yud, the Inevitable [LG] <a id=\"toc-yud\"></a><a id=\"toc-yud-220\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Yud teaches that it is everyone's responsibility to do as much good as they can, no matter how long it takes or how difficult it may be. Typically depicted as a dwarf and associated with the strength and endurance of stone. Some followers become Living Monoliths to better endure their trials.</p>\n<p><strong>Edicts</strong> commit to goals and fulfill them, improve the world by force of will, tolerate pain and discomfort, stand your ground like stone.<br /><strong>Anathema</strong> allow laziness to keep you from a goal, use technicalities to declare your goals fulfilled, boast of your own virtue<br /><strong>Follower Alignments</strong> LG, NG, LN</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Athletics</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> warhammer</p>\n<p class=\"hang\"><strong>Domains</strong> earth, might, perfection, toil</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>shockwave</em>, 4th: <em>stoneskin</em>, 5th: <em>wall of stone</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "yud",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LG",
+      "follower": [
+        "LG",
+        "NG",
+        "LN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "earth",
+        "might",
+        "perfection",
+        "toil"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "ath",
+    "weapons": [
+      "warhammer"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.dgCH2E0gMLMUgyFl",
+      "4": "Compendium.pf2e.spells-srd.2BV2yYPfVJ5zirZt",
+      "5": "Compendium.pf2e.spells-srd.kOa055FIrO9Smnya"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.Ng3K78qYakKgb0Ns"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680106191462,
+    "modifiedTime": 1680106308195,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "Oxkb6vwEjnjFipO0"
+}

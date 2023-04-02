@@ -1,0 +1,74 @@
+{
+  "name": "The Circle of Stars",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>The Circle of Stars [NG] <a id=\"toc-circle-of-stars\"></a><a id=\"toc-circle-of-stars-172\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The Circle of Stars is a loose pantheon of celestial deities of both day and night. It is worshipped primarily by agrarian cultures who place heavy reliance on their community’s safety. They recognize the union of the sun, moon, and stars as important as the union between seed and soil. The sun provides their crops, the night provides their rest, while the moon and stars keep them lit well enough to keep watch over their fields. Different communities and individuals may value different gods or goddesses within the pantheon differently, placing a greater emphasis on love or celebration of newcomers, or on maintaining a purifying fire in the face of the undead. Regardless, those who worship The Circle of Stars form strong bonds with those around them, and will do anything to keep them safe.</p>\n<p><strong>Edicts</strong> foster community with bonds as bright as stars, heal the downtrodden, improve your talents for the sake of your community, celebrate your bonds regularly<br /><strong>Anathema</strong> turn away a weary or wounded traveler, allow harm to come to a member of your community through negligence, maintain bonds with those who do not honor yours.<br /><strong>Follower Alignments</strong> LG, NG, CG<br /><strong>Pantheon Members</strong> Aelia, Gemni, Hajra-Ikhut, Noctune, Trella</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Medicine</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> sickle</p>\n<p class=\"hang\"><strong>Domains</strong> healing, moon, star, sun</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> travel</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>protector tree</em>, 2nd: <em>scorching ray</em>, 6th: <em>blanket of stars</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "circle-of-stars",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "pantheon",
+    "alignment": {
+      "own": "NG",
+      "follower": [
+        "LG",
+        "NG",
+        "CG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "healing",
+        "moon",
+        "star",
+        "sun"
+      ],
+      "alternate": [
+        "travel"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "med",
+    "weapons": [
+      "sickle"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.K9gI08enGtmih5X1",
+      "2": "Compendium.pf2e.spells-srd.ZxHC7V7HtjUsB8zH",
+      "6": "Compendium.pf2e.spells-srd.m34WOIGZCEg1h76G"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.60auWPR82fv2J1P9"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680030260628,
+    "modifiedTime": 1680106351396,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "aJbM8gjakHNPi1Pk"
+}

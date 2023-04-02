@@ -1,0 +1,75 @@
+{
+  "name": "Erimia",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Erimia, The Wild Mother, Mother Nature, she has been called many names. She protects all that grows and all that is born from the earth.</p>\n<p><br /><strong>Edicts</strong> guide civilization to grow in harmony with nature, live sustainably and according to natural cycles, preserve areas of natural wilderness, protect the balance of nature, protect endangered species<br /><strong>Anathema</strong> cause damage to natural settings, kill animals for reasons other than self-defense or sustenance, remove an element or indigenous species from a natural area, encourage imbalance in nature, allow abuse of natural resources<br /><strong>Follower Alignments</strong> NG, LN, N, CN, NE</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "erimia",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "NG",
+        "LN",
+        "N",
+        "CN",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "air",
+        "earth",
+        "nature",
+        "water"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "nat",
+    "weapons": [
+      "staff"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.dileJ0Yxqg76LMvu",
+      "4": "Compendium.pf2e.spells-srd.ikSb3LRGnrwXJBVX",
+      "6": "Compendium.pf2e.spells-srd.x5rGOmhDRDVQPrnW"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.GhT12vOrR5J7Yl4w"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680031874293,
+    "modifiedTime": 1680032021498,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "RNMgnKaZ0sBVmPmM"
+}

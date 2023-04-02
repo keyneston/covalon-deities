@@ -1,0 +1,72 @@
+{
+  "name": "Heleniel, The Sin Seeker",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Heleniel is a beacon of hope for those who have lost all. She protects the weak and absent, and encourages her faithful to fulfill their duty in doing the same. She represents balance and justice. She is a favorite of those with little means, and is at the heart of new civilizations and their expansion. Her symbol is an eye and a bleeding dagger.</p>\n<p><br /><strong>Edicts</strong> protect the weak, encourage the righteous, vanquish evildoers, be a bastion of the people<br /><strong>Anathema</strong> abandon those in need, attack without just cause, allow sinners to go unrepented<br /><strong>Follower Alignments</strong> LG, NG, LN</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "heleniel",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LG",
+      "follower": [
+        "LG",
+        "NG",
+        "LN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "cities",
+        "duty",
+        "protection",
+        "zeal"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "soc",
+    "weapons": [
+      "bastard-sword"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.0Dcd4iEXqCrkm4Jn",
+      "4": "Compendium.pf2e.spells-srd.2BV2yYPfVJ5zirZt",
+      "7": "Compendium.pf2e.spells-srd.vPWMEyVTreMOoFnm"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.XSQXIyZkMcBIeiWx"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680084328326,
+    "modifiedTime": 1680084515367,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "BQl7qYs1fDs7lJIv"
+}

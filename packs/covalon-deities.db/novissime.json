@@ -1,0 +1,73 @@
+{
+  "name": "Novissime, The Orchid Reaper",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>The god of assassins, Novissime is a well known deity in what was once the nation of Varceta. Their followers were known for their swords with blood-red handles and sharp blades. Some stories claim that Novissime became a deity by slaying another, known only as ‘The Orchid’, by using his razor sharp legs as weapons in a peaceful meeting. Due to their brutal nature, they are equal parts respected and feared, as their agents aim to uphold the image that the deity has earned. Novissime, however, is not a chaotic god and while they have a brutal side, they are also an intelligent deity, thinking before acting so as not to regret his decision.</p>\n<p><strong>Edicts</strong> Wield his favoured weapon in combat, openly show your worship through symbols and weaponry<br /><strong>Anathema</strong> Abandoning contracted work, recklessly rush into battle, show mercy to those you have sworn to slay<br /><strong>Follower Alignments</strong> LE, LN, NE</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "novissime",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LE",
+      "follower": [
+        "LE",
+        "LN",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "death",
+        "secrecy",
+        "zeal"
+      ],
+      "alternate": [
+        "fate"
+      ]
+    },
+    "font": [
+      "harm"
+    ],
+    "ability": [],
+    "skill": "ste",
+    "weapons": [
+      "sawtooth-saber"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.Gb7SeieEvd0pL2Eh",
+      "2": "Compendium.pf2e.spells-srd.XXqE1eY3w3z6xJCB",
+      "7": "Compendium.pf2e.spells-srd.AlbpWWN87yGegoAF"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.fWbQEK4ZyhSn8kPh"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680097745065,
+    "modifiedTime": 1680097870166,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "ArK2bcwhiHn4Su8s"
+}

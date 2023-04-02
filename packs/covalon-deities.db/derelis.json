@@ -1,0 +1,73 @@
+{
+  "name": "Derelis",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Derelis was a very ancient, powerful gold dragon that died many years ago. Enforced the rule of justice and peace through honor and combat to men and dragons alike. A church was started to protect his ideals, eventually ascending him to godhood due to his large following of believers.</p>\n<p><br /><strong>Edicts</strong> better yourself through combat, fight with honor, protect the weak.<br /><strong>Anathema</strong> acting without honor in combat, refusing an honor duel, interrupting a duel fought in honor.<br /><strong>Follower Alignments</strong> LG, NG</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "derelis",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LG",
+      "follower": [
+        "LG",
+        "NG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "duty",
+        "wyrmkin",
+        "zeal"
+      ],
+      "alternate": [
+        "ambition",
+        "protection"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": null,
+    "weapons": [
+      "longsword"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.Gb7SeieEvd0pL2Eh",
+      "4": "Compendium.pf2e.spells-srd.Mv5L4201uk8hnAtD",
+      "6": "Compendium.pf2e.spells-srd.5c692cCcTDXjSEzk"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.Mc6Eopk07rzVocxJ"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680031308370,
+    "modifiedTime": 1680032227882,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "iG6w9Q2J2tXdam4S"
+}

@@ -1,0 +1,76 @@
+{
+  "name": "L'I'rna",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Legend says that the Deep Matron was once a mortal woman. A matriarch of her village, she would spend a great deal of her free time on the shore, singing to the ocean. However, over time, her health began to decline, and with it, her presence of mind. More and more time was spent staring out into the ocean, often singing. Occasionally murmuring, \"It sees me. Can't it hear me?\"</p>\n<p>One dark morning, the townfolk woke to find that all of the children were missing from their beds, and a haunting song not unlike a lullaby was wafting from the shore. Though they tried to stop her, they were too late, and watched helplessly as L'l'rna led the children, hand in hand, into the brackish sea. Legend says she is still down there, the grief of the act turning her into a lonely, eldritch creature of godlike power. She has a particular love for sea monsters and creatures that may lead sailors to the depths, such as sirens and angler fish, and it is said that if you hear L'l'rna's Lullaby across the seas… it is already far too late.</p>\n<p><br /><strong>Edicts</strong> bring joy to children, warn people of danger, find beauty in turmoil<br /><strong>Anathema</strong> ignoring negative emotion, keeping someone from the ocean, ignoring a child in need<br /><strong>Follower Alignments</strong> N, NG, NE, LN, CN</p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "lirna",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "N",
+        "NG",
+        "NE",
+        "LN",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "delirium",
+        "sorrow",
+        "water"
+      ],
+      "alternate": [
+        "family",
+        "repose"
+      ]
+    },
+    "font": [
+      "harm"
+    ],
+    "ability": [],
+    "skill": "prf",
+    "weapons": [
+      "combat-grapnel"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.6ZIKB0151LUR19Rw",
+      "3": "Compendium.pf2e.spells-srd.tSosbMsftXcRaQgT",
+      "7": "Compendium.pf2e.spells-srd.8kJbiBEjMWG4VUjs"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.J42AOJXxbEGF4BuM"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680088554968,
+    "modifiedTime": 1680088644262,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "LK3Z5gULfF4cipx1"
+}

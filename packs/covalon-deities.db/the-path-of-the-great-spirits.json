@@ -1,0 +1,73 @@
+{
+  "name": "The Path of the Great Spirits",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>\"The Great Spirits\" refers to an ancient deity whose name has long been forgotten and is now called by this collective title. The practice of worshiping them is referred to as \"walking the path\" and is mostly worshiped by tribal communities and those with more animist and ancestral worshiping tendencies that rely on the wisdom of those who have passed.</p>\n<p>Those who dedicate themselves to walking the path of the Great Spirits see themselves as indistinguishable from the flora and fauna around them, and are therefore one with their ancestors buried in the lands on which they live. Since the Cataclysm, the survivors of those who walk the path have dedicated themselves to restoring the world to its natural balance and the return of others to their rightful ancestral lands.</p>\n<p><strong>Edicts</strong> perform rites and rituals for the dead, teach others how to live in balance with nature, create ancestral records, resist illegitimate claims to land or power<br /><strong>Anathema</strong> disturb the graves of others, needlessly destroy natural resources, intentionally destroy ancient relics, deny your connection to a lineage, deny others the right to choose<br /><strong>Follower Alignments</strong> CG, N, CN</p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-path-of-the-great-spirits",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CN",
+      "follower": [
+        "CG",
+        "N",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "family",
+        "freedom",
+        "knowledge",
+        "nature"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "occ",
+    "weapons": [
+      "spear"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.5LYi9Efs6cko4GGL",
+      "2": "Compendium.pf2e.spells-srd.BBvV7qoXGdw09q1C",
+      "7": "Compendium.pf2e.spells-srd.AlbpWWN87yGegoAF"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.5P6HoEx5ZUYqV6K9"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680103042315,
+    "modifiedTime": 1680103144034,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "WX70RCauukOEPM70"
+}

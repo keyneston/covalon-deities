@@ -1,0 +1,76 @@
+{
+  "name": "The Steel Judges",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>The Steel Judges [LN] <a id=\"toc-steel-judges\"></a><a id=\"toc-steel-judges-208\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Not one, but five separate dieties, the Steel Judges are depicted in differing ways from other religions, with each seen as a stern, armored paragon of law. Heleniel and Nimane are seen as Hellknights, concerned with differing aspects of warfare (Heleniel is seen as an offensive tactician, while Nimane is depicted as a defensive strategist). Kujani is seen as a stoic ideal of emotionless discipline. The Contract Forged In Unholy Flames is a symbolic command to understand the laws to be enforced- They are complex, but immutable and perfect. This cult is almost exclusive to the Hellknights, taking the best aspects of each of the five dieties and combining them into a well-tempered ideology that espouses law, equality, stoicism, hierarchy, and above all else, strict control, both over oneself, and of one's environment, all in the name of the collective over the individual. The individual is almost irrelevant, and one passage in the Measure cites an ant colony as an almost-ideal society, with the only flaw being the queen- A ruler which knows no order except its own myopic desires, untethered by greater purpose or true law and order. The Steel Judges value meritocracy over all in hierarchy, and care not what system a government, military, or other hierarchy uses except that it is led by the most capable.</p>\n<p><strong>Edicts</strong> be an exemplar of order (worthy of not one, but five), hold the collective as more important than the individual (Including yourself), demand discipline and perfection of yourself first<br /><strong>Anathema</strong> rest when there is lawlessness to fight, believe you know or understand more than the pantheon, allow civilization to suffer through your action or inaction<br /><strong>Follower Alignments</strong> LG, LN, LE<br /><strong>Pantheon Members</strong> Helenial, Nimane, Kujani, and The Contract Forged in Unholy Flames</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em> or <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Society</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> flail</p>\n<p class=\"hang\"><strong>Domains</strong> duty, perfection, tyranny, zeal</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> truth</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>phantom pain</em>, 4th: <em>fire shield</em>, 6th: <em>dominate</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-steel-judges",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "pantheon",
+    "alignment": {
+      "own": "LN",
+      "follower": [
+        "LG",
+        "LN",
+        "LE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "duty",
+        "perfection",
+        "tyranny",
+        "zeal"
+      ],
+      "alternate": [
+        "truth",
+        "abomination"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "soc",
+    "weapons": [
+      "flail"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.R8bqnYiThB6MYTxD",
+      "4": "Compendium.pf2e.spells-srd.YrzBLPLd3r9m6t1p",
+      "6": "Compendium.pf2e.spells-srd.OsOhx3TGIZ7AhD0P"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.HnepTlPRoYc1HsAs"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680103928925,
+    "modifiedTime": 1680104054536,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "C6XrcVZ6bugfGflq"
+}

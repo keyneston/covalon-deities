@@ -1,0 +1,76 @@
+{
+  "name": "Akash",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Believed to be the creator of the fabled Akashic Records, Akash is regarded as the font of all knowledge in the cosmos. Although Akash's access to knowledge seems to usurp any boundary -- whether it be time or space, comprehensible or incomprehensible -- Akash seems either uninterested or incapable of extending his influence into any other domain. Akash is sometimes depicted as a very old man constantly archiving the knowledge of all things. At other times, Akash is depicted as a small curious child with an infinite access to knowledge yet lacking any ability to act on it or to acquire wisdom through experiencing it. Because the Records even contain knowledge which isn't true (such as the lies that other deities and faiths perpetuate), most simply dismiss or ignore the Records entirely unless they acquire information from it which confirms their bias.</p>\n<p><br /><strong>Edicts</strong> record knowledge in any way that will withstand the test of time, such as in books, stone tablets, or folk song.<br /><strong>Anathema</strong> destroy recorded knowledge of any kind, even if the knowledge recorded is untrue or harmful.<br /><strong>Follower Alignments</strong> any</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "akash",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "N",
+        "CE",
+        "CG",
+        "CN",
+        "LE",
+        "NG",
+        "LG",
+        "LN",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "knowledge"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": null,
+    "weapons": [
+      "stiletto-pen"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.qTr2oCgIXl703Whb",
+      "2": "Compendium.pf2e.spells-srd.jwK43yKsHTkJQvQ9",
+      "3": "Compendium.pf2e.spells-srd.yM3KTTSAIHhyuP14"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.Jv1WJBUg0Fft3OQM"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680029920132,
+    "modifiedTime": 1680032218820,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "6R61AcOq42LgQEjv"
+}

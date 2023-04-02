@@ -1,0 +1,73 @@
+{
+  "name": "Mogak the Tender",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Known as the Orcish Mother in some tribes, Mogak was once a healer and fierce warrior for her tribe. Her love for battle, short temper and merciful care lead her to countless tribal victories against enemies. Mogak died in battle, tending to her chieftain against an ambush. Her children and tribe started spreading stories about her actions in battle, her ferocity and kindness, something rare in Orcish culture. All of her followers must be proven warriors and healers as well as hasty protectors.</p>\n<p><br /><strong>Edicts</strong> defend your people, provide assistance to your allies and show prowess in combat<br /><strong>Anathema</strong> refuse to give aid to an ally, refuse to treat an illness, kill surrendering foes<br /><strong>Follower Alignments</strong> NG, CG, N, CN</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "mogak",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CG",
+      "follower": [
+        "N",
+        "NG",
+        "CG",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "family",
+        "healing",
+        "nature",
+        "protection"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "sur",
+    "weapons": [
+      "orc-necksplitter"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.szIyEsvihc5e1w8n",
+      "3": "Compendium.pf2e.spells-srd.RneiyehRO6f7LP44",
+      "7": "Compendium.pf2e.spells-srd.2Vkd1IxylPceUAAF"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.565GFk0SfDiKMfB0"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680097136857,
+    "modifiedTime": 1680097282112,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "S7JerUl6zt9zF9da"
+}

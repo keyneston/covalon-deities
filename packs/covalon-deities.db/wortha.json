@@ -1,0 +1,74 @@
+{
+  "name": "Wortha",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Wortha, Trashmother [N] <a id=\"toc-wortha\"></a><a id=\"toc-wortha-217\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The closest goblins get to a deity of civilisation and progress, Wortha is the guiding force behind the goblin’s rise to a level of culture above a hunting pack.</p>\n<p><strong>Edicts</strong> seek new knowledge and techniques, be of use to a wider community, guard children from harm<br /><strong>Anathema</strong> refuse to acknowledge or learn from mistakes, rely on the charity of others for extended periods, throw something away if it still has use<br /><strong>Follower Alignments</strong> NG, LN, N, CN, NE</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Crafting</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> polytool</p>\n<p class=\"hang\"><strong>Domains</strong> creation, earth, family, knowledge</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>temporary tool</em>, 3rd: <em>hypercognition</em>, 4th: <em>creation</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "wortha",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "N",
+        "NG",
+        "LN",
+        "CN",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "earth",
+        "family",
+        "knowledge"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "polytool"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.TPI9fRCAYsDqpAe4",
+      "3": "Compendium.pf2e.spells-srd.ZYoC630tNGutgbE0",
+      "4": "Compendium.pf2e.spells-srd.TUj8eugNqAvB1vVR"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.2vO7cKXTPH2XaMWo"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680105863035,
+    "modifiedTime": 1680105948974,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "d54unx2eWhyT3q1h"
+}

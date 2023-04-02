@@ -1,0 +1,81 @@
+{
+  "name": "Nimane",
+  "type": "deity",
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Nimane, the Forge Matron [LG] <a id=\"toc-nimane\"></a><a id=\"toc-nimane-197\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The Forge Matron appears as a tall, strong woman with goat like legs, and is said to live deep underneath a volcano, eternally perfecting her craft. Legendary tales say the strongest of all magical swords, armors, and other armaments are smelted under her blessing. Originally worshipped by mountain dwelling dwarves, Nimane grew in popularity due to the craftsmanship and skill of her followers. Now, her worshippers include all races of blacksmiths and craftsmen who value the quality of their work above all else, particularly those who specialize in weapons and armor. You can be sure a smith who worships the Forge Matron will deliver your money's worth.<br /><strong>Edicts</strong> perfect your chosen craft, learn to use the things you make, respect other crafters, teach and learn freely<br /><strong>Anathema</strong> sell your work for less than it's worth, give up on bettering your skills, make shoddy work on purpose, disrespect fellow honest crafters<br /><strong>Follower Alignments</strong> LG, NG, LN</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Crafting</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> longsword</p>\n<p class=\"hang\"><strong>Domains</strong> creation, fire, perfection, toil</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> might</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 2nd: <em>heat metal</em>, 4th: <em>weapon storm</em>, 7th: <em>fiery body</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": "Covalon"
+    },
+    "rules": [],
+    "slug": "nimane",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": {
+        "datetime": "2023-03-28T19:10:51.903+02:00",
+        "version": {
+          "schema": 0.827,
+          "foundry": "10.291",
+          "system": "4.9.3"
+        }
+      }
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LG",
+      "follower": [
+        "LN",
+        "LG",
+        "NG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "protection",
+        "fire",
+        "toil"
+      ],
+      "alternate": [
+        "might"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "longsword"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.v4KzRPol5XQOOmk0",
+      "4": "Compendium.pf2e.spells-srd.8M03UxGXjYyDFAoy",
+      "7": "Compendium.pf2e.spells-srd.XS7Wyh5YC0NWeWyB"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "effects": [],
+  "flags": {
+    "core": {
+      "sourceId": "Item.UV59eFlJqofrzhlQ"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1676558918647,
+    "modifiedTime": 1680106541192,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "Mq5XN8YqJuQfq8Lj"
+}

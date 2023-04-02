@@ -1,0 +1,78 @@
+{
+  "name": "The Three Sisters",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>The Three Sisters [N] <a id=\"toc-three-sisters\"></a><a id=\"toc-three-sisters-210\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Amongst the younger deities of the world, the Three Sisters were not widespread worshiped in the land like other gods. Those who did discovered them through their experiments and observations of the world. Each Sister has their own interest, based on the three main areas of worship, but no one can tell each Sister apart as they are identical triplets with no individual names or styles. Some outsiders believe that there is only one goddess, as most worshipers only ever meet one of the Sisters if they ever do something to earn their presence. Only true scholars or heroes have met either two or all of the Sisters, usually when great discoveries have occurred. Few know what their personalities are like, but they have been described as eager to learn and easily excited by new experiments and findings about the world.</p>\n<p><strong>Edicts</strong> learn new truths about the world, heal those who are wounded, create and discover new formulas<br /><strong>Anathema</strong> destroy knowledge you come across, torture an enemy, wallow in entropy<br /><strong>Follower Alignments</strong> LG, NG, CG, LN, N, NE</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em> or <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Nature</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> polytool</p>\n<p class=\"hang\"><strong>Domains</strong> healing, knowledge, truth, vigil</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> travel</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>soothe</em>, 3rd: <em>hypercognition</em>, 5th: <em>strange geometry</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-three-sisters",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "LG",
+        "NG",
+        "CG",
+        "LN",
+        "N",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "healing",
+        "knowledge",
+        "truth",
+        "vigil"
+      ],
+      "alternate": [
+        "travel"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "nat",
+    "weapons": [
+      "polytool"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.szIyEsvihc5e1w8n",
+      "3": "Compendium.pf2e.spells-srd.ZYoC630tNGutgbE0",
+      "5": "Compendium.pf2e.spells-srd.m4Mc5XbdML92BKOE"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.ToLnIoXGtjXokJlj"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680104205280,
+    "modifiedTime": 1680104291260,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "x3jxE5WAyr5vfL4J"
+}

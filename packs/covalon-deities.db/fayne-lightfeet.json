@@ -1,0 +1,74 @@
+{
+  "name": "Fayne Lightfeet",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Fayne is a deity of small folk, trickery, crafting, and hospitality. In a world run by predominately bigfolk, and even bigger monsters that cause terror and destruction. Fayne teaches small folk of all ancestries to use cunning, guile, wit, and charm. Fayne preaches to be kind but always be prepared. Fayne encourages to provide comfort to those in need, if you have plenty it is your duty to provide to those who do not. However not everyone is kind and you must be ready. Using traps, poison, or whatever else you can to protect yourself and those in your care. Fayne often stays in Elysium but travels across the planes reminding larger Deities to remain humble.</p>\n<p><br /><strong>Edicts</strong> be skilled and clever, defend friends and the innocent, engage in mischief that doesn’t harm others, create useful or beautiful items<br /><strong>Anathema</strong> abandon a friend in need, deny someone shelter or food, suffer a bully’s insults to you or another without retort<br /><strong>Follower Alignments</strong> NG, CG, CN</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "fayne-lightfeet",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CG",
+      "follower": [
+        "NG",
+        "CG",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "protection",
+        "travel",
+        "trickery"
+      ],
+      "alternate": [
+        "family"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "light-hammer"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.j8vIoIEWElvpwkcI",
+      "3": "Compendium.pf2e.spells-srd.o6YCGx4lycsYpww4",
+      "4": "Compendium.pf2e.spells-srd.TUj8eugNqAvB1vVR"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.sqAgGEeK9l4fndmU"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680032034066,
+    "modifiedTime": 1680032149754,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "vOiClktxLZd7XkRc"
+}

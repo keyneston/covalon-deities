@@ -1,0 +1,74 @@
+{
+  "name": "Gemni, The Guiding Star",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Gemni reaches out to the lost both living and past to guide them to safety in civilization or the afterlife. The vast majority of Gemni's followers owe their life to the Guiding Star, be them refugees of home or state, or simply a soul lost on the road. They make their places of worship along major lanes of travel. Gemni has never spoken, their intent made clear through revelatory visions showing trails of stars.</p>\n<p><br /><strong>Edicts</strong> maintain safe places for refugees, guide the lost to safety, tear down systems of violent control.<br /><strong>Anathema</strong> strand desperate souls, endanger someone under your protection, force your will upon others.<br /><strong>Follower Alignments</strong> CG, N, CN</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "gemni",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CG",
+      "follower": [
+        "CG",
+        "N",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "darkness",
+        "freedom",
+        "star",
+        "secrecy"
+      ],
+      "alternate": [
+        "travel"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "sur",
+    "weapons": [
+      "longspear"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.4c1c6eNzU1PFGkAy",
+      "3": "Compendium.pf2e.spells-srd.EoKBlgf6Smt8opaU",
+      "4": "Compendium.pf2e.spells-srd.zR67Rt3UMHKC5evy"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.hbnty0xO91UrALtz"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680077098511,
+    "modifiedTime": 1680077537989,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "Y2G7zf6DEys8LBbR"
+}

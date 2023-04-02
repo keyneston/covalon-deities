@@ -1,0 +1,75 @@
+{
+  "name": "The Eyes",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>The Eyes [NE] <a id=\"toc-the-eyes\"></a><a id=\"toc-the-eyes-209\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Lurking in the deepest reaches of the sea, The Eyes watch, The Eyes wait. The Eyes share knowledge with any who seek it. For those that touch upon The Eyes truth are forever reshaped, and their souls forever marked by madness. The Eyes know all, and see all, but require it's followers to seek more madness and fear, to learn more secrets of the unending void. For only in the rantings of a mad broken soul, can the truth be seen. The eyes followers attempt to destroy the minds of others, for a broken mind serves as sustanance to The Eyes, although the followers do not know this. The Eyes cares not for it's followers as long as they continue to feed them with broken minds and knowledge. As long as madness exists in the world, The Eyes will always be waiting.</p>\n<p><strong>Edicts</strong> spread fear to your enemies, spread madness to your foes, learn secret<br /><strong>Anathema</strong> take slaves or hostages, remove madness or fear, destroy secret knowledge<br /><strong>Follower Alignments</strong> N, LE, NE, CE</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Intimidation</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> war razor</p>\n<p class=\"hang\"><strong>Domains</strong> abomination, nightmare, pain, void</p>\n<p class=\"hang\"><strong>Alternate</strong> Domain undeath</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 2nd: <em>paranoia</em>, 4th: <em>phantasmal killer</em>, 7th: <em>mask of terror</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-eyes",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "NE",
+      "follower": [
+        "N",
+        "LE",
+        "NE",
+        "CE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "abomination",
+        "nightmares",
+        "pain",
+        "void"
+      ],
+      "alternate": [
+        "undeath"
+      ]
+    },
+    "font": [
+      "harm"
+    ],
+    "ability": [],
+    "skill": "itm",
+    "weapons": [
+      "war-razor"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.Mkbq9xlAUxHUHyR2",
+      "4": "Compendium.pf2e.spells-srd.tlcrVRqW1MSKJ5IC",
+      "7": "Compendium.pf2e.spells-srd.O6VQC1Bs4aSYDa6R"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.apehzBdip52DWZD5"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680104078883,
+    "modifiedTime": 1680104186217,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "VZ8Nt6ZjerPi4wwQ"
+}

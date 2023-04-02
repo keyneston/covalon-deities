@@ -1,0 +1,75 @@
+{
+  "name": "Vieren Klaver",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Vieren Klaver [NG] <a id=\"toc-vieren-klaver\"></a><a id=\"toc-vieren-klaver-214\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The deity would rise to becoming a new deity of halfling kind. Who with their weak physical status, have been suffering a fair bit. As a partial war deity he has the protection and destruction domains to help halflings on their adventures in their new world. Which remains somewhat iconic to halflings, the eagerness to go out and explore. Iconic to halflings is their eventual return from adventuring after having grown tired from it and settling down, growing peaceful communities.<br /><strong>Edicts</strong> defend friends and the innocent, take risks and savor the consequences whether good or ill, explore new places and return to help your community grow.<br /><strong>Anathema</strong> abandon a friend in need, break the established rules or terms of a wager, keep halfling slaves, salt or despoil the earth.<br /><strong>Follower Alignments</strong> LG, NG, CG, N</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Acrobatics</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> filcher's fork</p>\n<p class=\"hang\"><strong>Domains</strong> destruction, family, luck, protection</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> travel</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>ill omen</em>, 3rd: <em>cozy cabin</em>, 6th: <em>baleful polymorph</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "vieren-klaver",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "NG",
+      "follower": [
+        "LG",
+        "NG",
+        "CG",
+        "N"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "destruction",
+        "family",
+        "luck",
+        "protection"
+      ],
+      "alternate": [
+        "travel"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "acr",
+    "weapons": [
+      "filchers-fork"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.6ZIKB0151LUR19Rw",
+      "3": "Compendium.pf2e.spells-srd.mwPfoYfVGSMAaUec",
+      "6": "Compendium.pf2e.spells-srd.dN8QBNuTiaBHCKUe"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.Ov3w2ekqY8IQWEA0"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680105503026,
+    "modifiedTime": 1680105593805,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "ewlxmrMz7OiNhmH8"
+}

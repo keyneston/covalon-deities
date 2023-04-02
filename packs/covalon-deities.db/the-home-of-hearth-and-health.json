@@ -1,0 +1,74 @@
+{
+  "name": "The Home of Hearth and Health",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>The Home of Hearth and Health [NG] <a id=\"toc-the-home-of-hearth-and-health\"></a><a id=\"toc-the-home-of-hearth-and-health-186\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The Home of Hearth and health is a pantheon made up of Hestora (LG), Aelia (NG), and Fayne (CG) and envisions the three as a family of siblings. The home is a chaotic place made up of individuals with different opinions and goals but when all members of a home work together to create a safe and positive place to live then all can flourish. Worshippers take this idea and try to embody it in their home and communities. Worshippers of the home foster growth and empathy while also protecting the home from cruelty and threats. The faith of The Home forms both in places surrounded by comfort and those in need of it.</p>\n<p><strong>Edicts</strong> provide aid to the sick and wounded, teach communities to defend themselves, defend friends and the innocent, appreciate a warm hearth<br /><strong>Anathema</strong> allow harm to come to children, deny someone shelter or food, deny support to loved ones, create undead<br /><strong>Follower Alignments</strong> LG, NG, CG, N</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Medicine</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> spear</p>\n<p class=\"hang\"><strong>Domains</strong> family, healing, fire, protection</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>ant haul</em>, 3rd: <em>haste</em>, 5th: <em>elemental gift</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-home-of-hearth-and-health",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "pantheon",
+    "alignment": {
+      "own": "NG",
+      "follower": [
+        "N",
+        "LG",
+        "NG",
+        "CG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "family",
+        "healing",
+        "fire",
+        "protection"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "med",
+    "weapons": [
+      "spear"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.X9dkmh23lFwMjrYd",
+      "3": "Compendium.pf2e.spells-srd.o6YCGx4lycsYpww4",
+      "4": "Compendium.pf2e.spells-srd.e36Z2t6tLdW3RUzZ"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.6KQ2eDPXZVtFq9La"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680085373994,
+    "modifiedTime": 1680106400686,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "CLdtkROo3hFJiXt8"
+}

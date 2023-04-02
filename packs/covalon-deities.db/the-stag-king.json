@@ -1,0 +1,71 @@
+{
+  "name": "The Stag King",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>The Stag King [CG] <a id=\"toc-stag-king\"></a><a id=\"toc-stag-king-207\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The worship of The Stag King seems to predate even the founding of the Kingdom of Chatillon from which most of his adherents come. An ancient and primordial deity of the deep forests that once covered vast tracks of that part of the world, The Stag King is a creator and protector of wild beasts and holdout wilderness areas. He has very few dedicated Priests and even fewer champions; followers of The Stag King tend to be hunters, trappers, or other hardy forest-folk.</p>\n<p><br /><strong>Edicts</strong> hunt only for food; leave no quarry dishonored upon the field, respect the ancient forests, heed your dreams.<br /><strong>Anathemas</strong> sport hunting, uncontrolled deforestation, disrespect towards fallen beasts.<br /><strong>Follower Alignments</strong> NG, CG, CN</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>healing</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Survival</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> longbow</p>\n<p class=\"hang\"><strong>Domains</strong> creation, dreams, nature</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>summon plant or fungus</em>, 3rd: <em>animal vision</em>, 6th: <em>tangling creepers</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-stag-king",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CG",
+      "follower": [
+        "NG",
+        "CG",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "dreams",
+        "nature"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "sur",
+    "weapons": [
+      "longbow"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.jSRAyd57kd4WZ4yE",
+      "3": "Compendium.pf2e.spells-srd.1HfusQ8NDWutGvMx",
+      "6": "Compendium.pf2e.spells-srd.JbAcSLu62TU1OgNF"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.RhwHdK8wDy3sZBx3"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680103790050,
+    "modifiedTime": 1680103903243,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "HGy8XFpiQabqI7oi"
+}

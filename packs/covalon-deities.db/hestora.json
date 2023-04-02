@@ -1,0 +1,72 @@
+{
+  "name": "Hestora",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Hestora is a deity of the home, of earth and flames. She grants guidance to those who wish to provide safety and rest to others. She prefers to let her actions, and food speak for her. Stories say Hestora was formed from the ashes of the first flames. It was there she built the first fireplace and where she calls home. Inviting all for safety and comfort.</p>\n<p><br /><strong>Edicts</strong> appreciate a warm hearth, protect the home, teach communities to defend themselves, harvest with skill<br /><strong>Anathema</strong> deny support to loved ones, sow discord in a community, allow harm to come to children, refuse to provide for the family or community<br /><strong>Follower Alignments</strong> LG, NG, LN</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "hestora",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LG",
+      "follower": [
+        "LG",
+        "NG",
+        "LN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "family",
+        "earth",
+        "fire",
+        "protection"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "dip",
+    "weapons": [
+      "shears"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.X9dkmh23lFwMjrYd",
+      "2": "Compendium.pf2e.spells-srd.CXICME10TkEJxz0P",
+      "4": "Compendium.pf2e.spells-srd.e36Z2t6tLdW3RUzZ"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.GoU25VFEtkIceCeM"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680084531015,
+    "modifiedTime": 1680084674099,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "fd70XKkXzgcM9C98"
+}

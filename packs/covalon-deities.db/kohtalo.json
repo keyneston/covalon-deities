@@ -1,0 +1,77 @@
+{
+  "name": "Kohtalo",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Kohtalo, Patron of Fate Forgers [N] <a id=\"toc-kohtalo\"></a><a id=\"toc-kohtalo-187\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Kohtalo is the goddess of ambitious souls. Being one of the oldest and initially, most obscure Goddesses, through her own efforts and the efforts of her followers she's gained greater recognition. Kohtalo was a Goddess of dreams, who was often overshadowed by other deities, but through completing a set of several challenges and tasks she was granted greater influence and sway. Through this experience she gained an appreciation for ambition. She blesses those who seek to forge their own fate and defy the odds, especially underdogs. Unlike many deities that effect fate, she gets a great deal of amusement from those who don't accept their fate and actively fight against it, often putting her end goals and involvement in the lives of mortals at odds with other fate deities. Kohtalo's favored weapon is the pick, signifying the desire to create a new life and path for oneself. She resents anyone who chooses a life of complacency or takes advantage of those weaker then themselves as it poses no challenge and doesn't better anyone. </p>\n<p><strong>Edicts</strong> bettering yourself by your own efforts, pursuing fame and glory for your achievements, crafting, rewarding yourself for your achievements.<br /><strong>Anathema</strong> abandoning projects or work, accepting charity, victimizing the weak or helpless, accepting bad circumstances, complacency or not having an ambitious life goal<br /><strong>Follower Alignments</strong> NG, CG, N ,CN, NE</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em> or <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Crafting</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> pick</p>\n<p class=\"hang\"><strong>Domains</strong> ambition, creation, fate, zeal</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> confidence</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>true strike</em>, 4th: <em>seal fate</em>, 6th: <em>zealous conviction</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "kohtalo",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "N",
+        "NG",
+        "CG",
+        "CN",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "ambition",
+        "creation",
+        "fate",
+        "zeal"
+      ],
+      "alternate": [
+        "confidence"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "pick"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.Gb7SeieEvd0pL2Eh",
+      "4": "Compendium.pf2e.spells-srd.gfKhtVsXF3HKSdmY",
+      "6": "Compendium.pf2e.spells-srd.GYD0XZ4t3tQq6shc"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.DjJhV6nRVYeiMU4N"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680085574993,
+    "modifiedTime": 1680106617233,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "uxXE995KTUkZWMjh"
+}

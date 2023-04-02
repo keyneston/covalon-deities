@@ -1,0 +1,71 @@
+{
+  "name": "Nesdonin",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Nesdonin was mostly praised in the Island of Poin, its inhabitants mostly praising it out of desperation for food and thinning numbers. There’s not much known about it elsewhere apart from its cultists’ great poisons and weird ways.</p>\n<p><br /><strong>Edicts</strong> sacrifice lives, poison non-believers<br /><strong>Anathema</strong> spread cure, spread knowledge of poison<br /><strong>Follower Alignments</strong> NE, CE</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "nesdonin",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CE",
+      "follower": [
+        "NE",
+        "CE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "death",
+        "plague"
+      ],
+      "alternate": [
+        "confidence"
+      ]
+    },
+    "font": [
+      "harm"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "dagger"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.3VxVbZqIRvpKkg3O",
+      "3": "Compendium.pf2e.spells-srd.GKpEcy9WId6NJvtx",
+      "5": "Compendium.pf2e.spells-srd.MlpbeZ61Euhl0d60"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.OWBDv1gAMKPHVuyx"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680097254312,
+    "modifiedTime": 1680097382286,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "tBQCmrWjWxDB0Fze"
+}

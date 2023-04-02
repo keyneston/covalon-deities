@@ -1,0 +1,71 @@
+{
+  "name": "Nith'rolark",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Nith'rolark was a great man that rose to divinity through a crusade he led through the world thousands of years ago. He was ultimately slain by Deloxus the Black King, the horrific dragon that plagued the world at the time. His sacrifice brought the vile creature down with him. He was forever revered as a saint ever since.</p>\n<p><strong>Edicts</strong> bring the demise of both Evil Dragons and their servants, give freely to strengthen society, offer your service to quest in service of the realm.<br /><strong>Anathema</strong> horde possessions, become obsessed with a vice or hobby, use your station to take advantage of others.<br /><strong>Follower Alignments</strong> LG, NG</p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "nithrolark",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LG",
+      "follower": [
+        "LG",
+        "NG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "duty",
+        "might",
+        "protection",
+        "zeal"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": null,
+    "weapons": [
+      "greatsword"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.Gb7SeieEvd0pL2Eh",
+      "4": "Compendium.pf2e.spells-srd.8M03UxGXjYyDFAoy",
+      "7": "Compendium.pf2e.spells-srd.HES5jvGiNZZnJycK"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.xZCuE2PNZMWvKvpj"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680097435307,
+    "modifiedTime": 1680097526450,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "PqfW9M7G6rIHOvft"
+}

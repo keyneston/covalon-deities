@@ -1,0 +1,72 @@
+{
+  "name": "The Pale Light",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>A long time ago, too long for anyone to remember, there were 4 men. These 4 were feared and revered by all, wherever they went glory and death followed with. The first demanded respect with just his presence, and all would follow. The second no man or beast could best in combat, and all would fall. The third had riches beyond imagining, and all would feast. Then, there was the fourth, who's touch drained all of life, and none would survive. The 4 could not be stopped, not even the largest armies or the foulest of creatures, but there was one thing that stopped all, time. The first lost his splendor, and none would follow. The second lost his strength, and he would fall. The third lost his riches, and none would feast. However the fourth time could not stop, as he was master of death, though this was no blessing. One by one, he held the hands of his friends, seeing the life leave their eyes, but he could not follow. The stories of the four faded, but the fourth continued his travels, death following him wherever he went, but no longer would be the cause. Having lost all he held dear and facing death truely, he would only bring death as a mercy. No one remembers his name, or the names of those that traveled with him, but people do remember the pale light that would take those who wished for death.</p>\n<p><strong>Edicts</strong> give mercy to those who desire death, bring peace to those on death's door<br /><strong>Anathema</strong> let those who desire death suffer more than necessary, ridicule those in mourning.<br /><strong>Follower Alignments</strong> LG, LN, N</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-pale-light",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LN",
+      "follower": [
+        "LG",
+        "LN",
+        "N"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "death",
+        "repose",
+        "sorrow"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "occ",
+    "weapons": [
+      "staff"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.o4lRVTwSxnOOn5vl",
+      "2": "Compendium.pf2e.spells-srd.b515AZlB0sridKSq",
+      "7": "Compendium.pf2e.spells-srd.Z9OrRXKgAPv6Hn5l"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.FcuAP8JqLDqWc0FP"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680102884496,
+    "modifiedTime": 1680102977660,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "J3y7Y5QPDnq1MESm"
+}

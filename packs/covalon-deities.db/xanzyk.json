@@ -1,0 +1,79 @@
+{
+  "name": "Xan'zyk",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Xan’Zyk, The First Incantation [N] <a id=\"toc-xan-zyk\"></a><a id=\"toc-xan-zyk-218\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>When the first spell was uttered and the first runes were cast it created neither fire nor force; it created Xan’Zyk. As the first incantation entered the world, it did so in an avalanche of magical energy so potent that the spell itself gained not only sentience but also divinity. Xan’Zyk, named after the first two syllables of the primordial spell which birthed them, is the pursuit of magical power incarnate. They seek only to see magic used with little regard to the purpose it serves. They are just as content to see a fireball engulf a town square as they are to see a tyrannical lich disintegrated to ash. All spells are prayers to Xan’Zyk and it is said that with every spell uttered and every new ritual discovered their power expands. They are most commonly depicted as an ornate magical sigil or alternatively a spellbook shimmering with prismatic light. Xan’Zyk accepts the worship of any who can cast spells of their own power, however wizards in particular naturally gravitate towards The First Incantation. Legends claim that should the entirety of the incantation which birthed Xan’Zyk be uttered once more, they along with all spells which have followed them, would be undone.</p>\n<p><strong>Edicts</strong> strive to gain magical power, research new spells and rituals, use magic to solve problems<br /><strong>Anathema</strong> curtail magical research, destroy magical knowledge or spells, refuse to let another learn a spell from you<br /><strong>Follower Alignments</strong> any</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em> or <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Arcana</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> stiletto pen</p>\n<p class=\"hang\"><strong>Domains</strong> ambition, destruction, glyph, magic</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>magic missile</em>, 4th: <em>dimension door</em>, 7th: <em>spell turning</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "xanzyk",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "CE",
+        "CG",
+        "CN",
+        "LE",
+        "LG",
+        "LN",
+        "N",
+        "NE",
+        "NG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "ambition",
+        "destruction",
+        "glyph",
+        "magic"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "arc",
+    "weapons": [
+      "stiletto-pen"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.gKKqvLohtrSJj3BM",
+      "4": "Compendium.pf2e.spells-srd.VlNcjmYyu95vOUe8",
+      "7": "Compendium.pf2e.spells-srd.OOELvfkTedBMlWtq"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.aRaTis1VDQmLRqyC"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680105981777,
+    "modifiedTime": 1680106076416,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "ep8gqcSeodAA8wUs"
+}

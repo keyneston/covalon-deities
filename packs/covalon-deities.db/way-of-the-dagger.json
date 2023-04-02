@@ -1,0 +1,78 @@
+{
+  "name": "Way of the Dagger",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Way of the Dagger [N] <a id=\"toc-way-of-the-dagger\"></a><a id=\"toc-way-of-the-dagger-215\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Many have heard of the supreme figures that are the fabled sword saints, those lofty figures whose swords are their life's companions and who reach such proficiency that a flick can bisect fireballs and a slash can rend mountains. However, none speak of the dagger users, those who have also reached the peak… maybe it is that none have yet lived or that such persons have taken so fully to the path that their legacies are all but unknown. What lies at the end? A Dagger Demon or a Deity of Daggers? The minutest number dare tread this path, and few ever make it far.</p>\n<p><strong>Edicts</strong> seek perfection in the dagger; hone the body, mind, and spirit as the dagger: versatile, concealable, fast, and transitioning.<br /><strong>Anathema</strong> wield another weapon when a dagger is suitable, be without a dagger of one's own volition, deny yourself an advantage when proving the greatness of the dagger<br /><strong>Follower Alignments</strong> any</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Stealth</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> dagger</p>\n<p class=\"hang\"><strong>Domains</strong> darkness, death, time, trickery</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 2nd: <em>invisibility</em>, 3rd: <em>haste</em>, 4th: <em>weapon storm</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "way-of-the-dagger",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "N",
+        "LG",
+        "CE",
+        "CG",
+        "CN",
+        "LE",
+        "LN",
+        "NE",
+        "NG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "darkness",
+        "death",
+        "time",
+        "trickery"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm"
+    ],
+    "ability": [],
+    "skill": "ste",
+    "weapons": [
+      "dagger"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.XXqE1eY3w3z6xJCB",
+      "3": "Compendium.pf2e.spells-srd.o6YCGx4lycsYpww4",
+      "4": "Compendium.pf2e.spells-srd.8M03UxGXjYyDFAoy"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.EduDb3UNyWnKF0gk"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680105615404,
+    "modifiedTime": 1680105719697,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "3oDEVk72NXUB5Qy0"
+}

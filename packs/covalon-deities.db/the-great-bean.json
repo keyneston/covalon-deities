@@ -1,0 +1,74 @@
+{
+  "name": "The Great Bean",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Located in \"Goblin Hell\", the Great Bean is a coffee bean that is said to have been used in the first cup of coffee. While its followers mostly brew coffee, the \"perfect brew\" can come in other forms such as beer, mead or tea. Pursuit of the highest-quality brew is what all of its followers strive for, along with a community that will continue to uphold and cultivate this standard of quality.</p>\n<p><br /><strong>Edicts</strong> pursue the perfect brew, cultivate a community, pass down artisan traditions<br /><strong>Anathema</strong> become slothful in your brewing, isolate yourself from society, destroy ancient traditions or history<br /><strong>Follower Alignments</strong> CG, CN, CE</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "the-great-bean",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CG",
+      "follower": [
+        "CG",
+        "CN",
+        "CE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "family",
+        "fire",
+        "passion"
+      ],
+      "alternate": [
+        "perfection"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "warhammer"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.y6rAdMK6EFlV6U0t",
+      "3": "Compendium.pf2e.spells-srd.sxQZ6yqTn0czJxVd",
+      "6": "Compendium.pf2e.spells-srd.Gn5deIoobHpd3SiR"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.YUBhQmIi1GYM0HFe"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680077422592,
+    "modifiedTime": 1680077551851,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "Oooz8uxMHgZ4DaLM"
+}

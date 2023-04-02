@@ -1,0 +1,76 @@
+{
+  "name": "Varat'ah",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Varat'ah [NG] <a id=\"toc-varat-ah\"></a><a id=\"toc-varat-ah-213\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Varat'ah is a lesser known deity of invention and hard work. He has an older brother, \"Clau'tu\" (God of Protection, Tradition and Laws) and a younger brother, \"Nict'au\" (God of Destruction, Darkness, and Decay). In ancient times it is said that Clau'tu and Nict'au constantly fought for dominance and power and were always trying to convince Varat'ah to join one side or the other, but Varat'ah only wanted to work on his crafts and inventions. One day Nict'au came to Clau'tu in the form of another lesser deity and tricked him into helping imprison Varat'ah saying that as long as Varat'ah was imprisoned he could not help Nict'tu to defeat you. They were successful in imprisoning Varat'ah but Nict'au at the last moment revealed himself and betrayed Clau'tu and imprisoned him as well. Having both been imprisoned Clau'tu and Varat'ah worked together and eventually broke free but the world suffered for many years under the darkness of Nict'au. Now it is said Varat'ah continues his crafting and wile he has a tentative truce with his brother Clau'tu he is much more wary so as to never be imprisoned again.</p>\n<p><strong>Edicts</strong> perfect a craft or trade, continually improve your abilities, aid others with completing unfinished tasks, work ceaselessly<br /><strong>Anathema</strong> fail to work toward goals or grow in skill, relax excessively or give into sloth, mistreat your tools<br /><strong>Follower Alignments</strong> NG, CG, LN, NE</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em> or <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Crafting</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> great pick</p>\n<p class=\"hang\"><strong>Domains</strong> change, creation, knowledge, toil</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> ambition</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>mending</em>, 3rd: <em>hypercognition</em>, 5th: <em>wall of stone</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "varatah",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "NG",
+      "follower": [
+        "NG",
+        "CG",
+        "LN",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "change",
+        "creation",
+        "knowledge",
+        "toil"
+      ],
+      "alternate": [
+        "ambition"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "greatpick"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.dINQzhqGmIsqGMUY",
+      "3": "Compendium.pf2e.spells-srd.ZYoC630tNGutgbE0",
+      "5": "Compendium.pf2e.spells-srd.kOa055FIrO9Smnya"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.yzal5rqx3yPji91e"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680105365678,
+    "modifiedTime": 1680105483318,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "u8g5yaVK6oEdaWMj"
+}

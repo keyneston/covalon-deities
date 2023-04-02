@@ -1,0 +1,77 @@
+{
+  "name": "Lysanthyr, The Unending Delight",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The sweet scent of roses catching your nose, the taste of honey dripping upon your tongue, the sinuous sensation of silk on your skin; these are the blessings of Lysanthyr. As old as consciousness itself, Lysanthyr is a truly ancient deity of sensation, pleasure and vanity. He expects his followers to seek out new experiences, enjoy existence and the partake in the pleasures it offers. The body is sacred to Lysanthyr and followers are expected to take care to preserve and perfect their bodies, for the body is the vessel by which the mind can derive pleasure from the world. To this end, he is associated with various cults of undeath and immortality. His worship rose to particular prominence in the nation of Varceta, where the ruling vampires often made sacrifices in his honour in hopes of being blessed with fleeting glimpses of their reflections. To know if Lysanthyr holds your heart you need only ask one question, ”Would you like to live deliciously?”</p>\n<p><strong>Edicts</strong> indulge your senses, embellish your beauty, preserve your body, gaze upon your reflection<br /><strong>Anathema</strong> shatter a mirror, practice asceticism, waste a meal<br /><strong>Follower Alignments</strong> N, CN, NE, CE</p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "lysanthyr",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "N",
+      "follower": [
+        "N",
+        "CN",
+        "NE",
+        "CE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "delirium",
+        "indulgence",
+        "passion",
+        "undeath"
+      ],
+      "alternate": [
+        "healing",
+        "pain"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "dip",
+    "weapons": [
+      "asp-coil"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.2oH5IufzdESuYxat",
+      "4": "Compendium.pf2e.spells-srd.LiGbewa9pO0yjbsY",
+      "5": "Compendium.pf2e.spells-srd.OAt2ZEns1gIOCgrn"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.ZZgoAYKNQayzvVBN"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680096856351,
+    "modifiedTime": 1680096962097,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "Ha9h12EZeI5skMhe"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "The Contract Forged in Unholy Flames",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>The Contract Forged In Unholy Flames is no entity, but rather, the legislative document that sets the laws of Hell. It is said to be full of contradictions and ever-expanding, if not infinite, and that it is a trick in itself to attempt to follow its rules. The creatures of Hell put up with its masquerade for the order it brings gives them strength, and the one who possesses the Contract is the Ruler of Hell. The truth is, it does not matter who rules Hell. Hell rules itself, and no small print shall save you from it.</p>\n<p><br /><strong>Edicts</strong> enforce the word for the Law, might makes right, be strict on others, yet demand even more discipline from yourself.<br /><strong>Anathema</strong> break a contract, allow emotions to get the better of you, show weakness to a foe.<br /><strong>Follower Alignments</strong> LN, LE, NE</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "unholy-flames",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "LE",
+      "follower": [
+        "LN",
+        "LE",
+        "NE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "fire",
+        "knowledge",
+        "might",
+        "trickery"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm"
+    ],
+    "ability": [],
+    "skill": "itm",
+    "weapons": [
+      "trident"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.ZxHC7V7HtjUsB8zH",
+      "4": "Compendium.pf2e.spells-srd.qwlh6aDgi86U3Q7H",
+      "7": "Compendium.pf2e.spells-srd.WG91Z5TiR6oO5FOw"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.EaC7wv4mBZDyKmrC"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680030979016,
+    "modifiedTime": 1680032261499,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "v7SKpias5n2T77Rw"
+}

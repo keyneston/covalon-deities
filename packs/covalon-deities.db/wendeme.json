@@ -1,0 +1,74 @@
+{
+  "name": "Wendem'e",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Wendem'e [CN] <a id=\"toc-wendem-e\"></a><a id=\"toc-wendem-e-216\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The destruction of the world brought the death to many nature spirits, the mighty loa being no different. Inhabiting the southern jungles, these powerful natural entities were hunted down and imprisoned by a powerful lich that claimed their home as his new dark empire. Wendem'i was freed when adventurers came through his temple and brought life back to his sarcophagus. He now runs through the jungles, fighting back against the evil lich and his forces while spreading his power to those who would call upon him.</p>\n<p><strong>Edicts</strong> spread mischief that you enjoy, revere all primates.<br /><strong>Anathema</strong> harm a primate unless in self defense, stop a joke that you think is humorous.<br /><strong>Follower Alignments</strong> CG, CN, CE</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>harm</em> or <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Theivery</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> bo staff</p>\n<p class=\"hang\"><strong>Domains</strong> freedom, luck, trickery</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> nature</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 2nd: <em>shillelagh</em>, 3rd: <em>mad monkeys</em>, 5th: <em>tree stride</em></p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<p> </p>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "wendeme",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CN",
+      "follower": [
+        "CG",
+        "CN",
+        "CE"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "freedom",
+        "luck",
+        "trickery"
+      ],
+      "alternate": [
+        "nature"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "thi",
+    "weapons": [
+      "bo-staff"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.s3abwDbTV43pGFFW",
+      "3": "Compendium.pf2e.spells-srd.tFKJCPvOQZxKq6ON",
+      "5": "Compendium.pf2e.spells-srd.F1qxaqsEItmBura2"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.743Ai5G2xjzpIK08"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680105741162,
+    "modifiedTime": 1680105833896,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "9Pvfhponfvh1wUeP"
+}

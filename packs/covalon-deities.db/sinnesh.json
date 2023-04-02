@@ -1,0 +1,75 @@
+{
+  "name": "Sinnesh",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"content\" data-markdown=\"1\">\n<h2>Sinnesh, The Den Mother [NG] <a id=\"toc-sinnesh\"></a><a id=\"toc-sinnesh-206\"></a></h2>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>The Den Mother is an ancient being who originally gained power due to the worship of warren dwelling Ysoki. She is a deity of earth, family, and crafting, usually depicted as either a matronly Ysoki woman or as a massive subterranean rat. Though still somewhat of a patron diety to many Ysoki clans, she has also become popular with all folk who live or travel beneath the surface, mine and utilize underground resources, or value strong familial ties. Her holy symbol is a rat, curled up as though sleeping in a snug den.</p>\n<p><strong>Edicts</strong> respect natural caves and underground spaces, value the knowledge of your elders, utilize the resources you gather, assist underground travellers<br /><strong>Anathema</strong> end the life of a child, let precious minerals or metals go to waste, abandon a family member who cherishes and respects you<br /><strong>Follower Alignments</strong> LG, NG, CG, LN</p>\n</div>\n</div>\n<div class=\"content\" data-markdown=\"1\">\n<h3>Devotee Benefits</h3>\n</div>\n<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p class=\"hang\"><strong>Divine Font</strong> <em>heal</em></p>\n<p class=\"hang\"><strong>Divine Skill</strong> Crafting</p>\n<p class=\"hang\"><strong>Favored Weapon</strong> light hammer</p>\n<p class=\"hang\"><strong>Domains</strong> creation, earth, family, protection</p>\n<p class=\"hang\"><strong>Alternate Domain</strong> travel</p>\n<p class=\"hang\"><strong>Cleric Spells</strong> 1st: <em>shattering gem</em>, 3rd: <em>earthbind</em>, 5th: <em>wall of stone</em></p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "sinnesh",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "NG",
+      "follower": [
+        "LG",
+        "NG",
+        "CG",
+        "LN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "earth",
+        "family",
+        "protection"
+      ],
+      "alternate": [
+        "travel"
+      ]
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "light-hammer"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.0uRpypf1Hi7ahvTl",
+      "3": "Compendium.pf2e.spells-srd.gPvtmKMRpg9I9D7H",
+      "5": "Compendium.pf2e.spells-srd.kOa055FIrO9Smnya"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.zWPHVxUcbtAJLVWj"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680103652836,
+    "modifiedTime": 1680103757768,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "qxu7tWc98DZ10MtY"
+}

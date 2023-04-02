@@ -1,0 +1,78 @@
+{
+  "name": "Queen Faerusa",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<h2>Queen Faerusa, The Everchanging, Eldest of Desire, Acceptance, and the Seasons</h2>\n<p>Faerusa was originally a true goddess, worshipped by many, but long before the Cataclysm she disappeared from the world and over time she was forgotten. In truth she did not disappear, she left, choosing to give up her place as a true deity to become one of the Eldest. Ever since, she has resided within the First World, ruling over the Court of Tymoria. Faerusa embodies change, in both the world and people, but she also upholds balance. There can be no day without night, no spring without winter. While Faerusa urges for one to follow after your desires, she also demands they acknowledge when they cannot. To put oneself aside when it is obviously what is needed. She herself made a similar choice, to accept love despite fear of commitment, going against her own nature to help another.</p>\n<p><br /><strong>Edicts</strong> seek to fufill your desires and find your true self, celebrate the changing of the seasons, punish those who take freedom from others.<br /><strong>Anathema</strong> separate Lovers, disrupt or change the laws of nature, force another to act against their will, take advantage of someone else’s love or passion.<br /><strong>Follower Alignments</strong> NG, CG, LN, N, CN</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "queen-faerusa",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CN",
+      "follower": [
+        "NG",
+        "CG",
+        "LN",
+        "N",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "change",
+        "freedom",
+        "nature",
+        "passion"
+      ],
+      "alternate": [
+        "family",
+        "indulgence"
+      ]
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "dip",
+    "weapons": [
+      "bladed-hoop"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.0Dcd4iEXqCrkm4Jn",
+      "4": "Compendium.pf2e.spells-srd.qwlh6aDgi86U3Q7H",
+      "7": "Compendium.pf2e.spells-srd.Vw2CNwlRRKABsuZi"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.YmCd4RhQqmDvgMyF"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680103181499,
+    "modifiedTime": 1680103365328,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "u7vU14uvB16QAJXO"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Luxandra, the Everbloom",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<div class=\"item d-flex flex-wrap\" data-markdown=\"1\">\n<div class=\"flex-even column\" data-markdown=\"1\">\n<p>Before destruction befell Elleaterra, Luxandra was the matron goddess to artists, performers, and lovers the world over. Since the end times, her followers have clung to hope that she still hears them, giving them the inspiration to still create even though the world is bleak. She revealed herself commonly through a well placed brush stroke, an impeccably put together outfit, or through acts of true love. Her followers, few as they may be now, still hold to these ideals so that the Everbloom may once again brighten their lives.</p>\n<p><strong>Edicts</strong> create works of art, dress as well as one is able, appreciate beauty in all things, actively seek improvement, foster and nurture love<br /><strong>Anathema</strong> destroy a work of art (unless saving a life in the process), be slovenly in one’s appearance, let one’s abilities languish, interfere with genuine love<br /><strong>Follower Alignments</strong> LG, NG, CG</p>\n</div>\n</div>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": "luxandra",
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "NG",
+      "follower": [
+        "LG",
+        "NG",
+        "CG"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "creation",
+        "passion",
+        "protection",
+        "zeal"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "heal"
+    ],
+    "ability": [],
+    "skill": "cra",
+    "weapons": [
+      "longbow"
+    ],
+    "spells": {
+      "1": "Compendium.pf2e.spells-srd.UKsIOWmMx4hSpafl",
+      "4": "Compendium.pf2e.spells-srd.TUj8eugNqAvB1vVR",
+      "5": "Compendium.pf2e.spells-srd.TCk2MDwf5L5OYjFC"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.89HJukKxGA2AWm8B"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680096659214,
+    "modifiedTime": 1680096761588,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "nOWs8UeaZIiI0pck"
+}

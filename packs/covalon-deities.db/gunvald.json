@@ -1,0 +1,74 @@
+{
+  "name": "Gunvald",
+  "type": "deity",
+  "effects": [],
+  "system": {
+    "description": {
+      "gm": "",
+      "value": "<p>Gunvald is one of the first gods and a somewhat enigmatic figure. He is the god concerned with the formalities of war—especially treaties, and sacrificed his hand for humanity's future.</p>\n<p><br /><strong>Edicts</strong> fulfill your duties, oppose those who unjustly lord power over others, act with dignity<br /><strong>Anathema</strong> own a slave, refuse to give aid to an ally, enforce an unjust law<br /><strong>Follower Alignments</strong> NG CG CN</p>"
+    },
+    "source": {
+      "value": ""
+    },
+    "rules": [],
+    "slug": null,
+    "schema": {
+      "version": 0.833,
+      "lastMigration": null
+    },
+    "category": "deity",
+    "alignment": {
+      "own": "CG",
+      "follower": [
+        "NG",
+        "CG",
+        "CN"
+      ]
+    },
+    "domains": {
+      "primary": [
+        "duty",
+        "freedom",
+        "might",
+        "protection"
+      ],
+      "alternate": []
+    },
+    "font": [
+      "harm",
+      "heal"
+    ],
+    "ability": [],
+    "skill": "dec",
+    "weapons": [
+      "spear",
+      "longsword"
+    ],
+    "spells": {
+      "2": "Compendium.pf2e.spells-srd.wzctak6BxOW8xvFV",
+      "3": "Compendium.pf2e.spells-srd.o6YCGx4lycsYpww4",
+      "7": "Compendium.pf2e.spells-srd.AlbpWWN87yGegoAF"
+    }
+  },
+  "img": "systems/pf2e/icons/default-icons/deity.svg",
+  "flags": {
+    "core": {
+      "sourceId": "Item.s0VcPjO63tIpPiSv"
+    }
+  },
+  "_stats": {
+    "systemId": "pf2e",
+    "systemVersion": "4.9.3",
+    "coreVersion": "10.291",
+    "createdTime": 1680077583506,
+    "modifiedTime": 1680077722326,
+    "lastModifiedBy": "09mjrAEiD0KfcXgB"
+  },
+  "folder": null,
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "09mjrAEiD0KfcXgB": 3
+  },
+  "_id": "oRmRF5ab9dKvJ33M"
+}
